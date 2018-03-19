@@ -1,2 +1,2 @@
 Bootstrap: docker
-From: bigdatalabteam/hcp-prefreesurfer:exec-centos6.freesurferbuild-centos4-latest
+From: bigdatalabteam/hcp-prefreesurfer:exec-centos7-fslbuild-centos5-latest
